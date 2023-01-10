@@ -1,1 +1,1 @@
-# ИТМО. Курс_HTML-XML
+# HTML-XML
